@@ -371,12 +371,34 @@ Neoliberalism
 70 Ownership
 80 Production
 50 Civil
-60 Diplomatic
+40 Diplomatic
 50 Societal
 50 Legality
 70 Technology
 40 Nature
 30 Religion
+
+Neoconservatism
+70 Ownership
+80 Production
+50 Civil
+30 Diplomatic
+35 Societal
+50 Legality
+70 Technology
+40 Nature
+50 Religion
+
+Anarcho-Primitivism
+50 Ownership
+0 Production
+100 Civil
+50 Diplomatic
+50 Societal
+100 Legality
+0 Technology
+100 Nature
+50 Religion
 
 Conservatism
 60 Ownership
@@ -457,7 +479,7 @@ Agorism
 
 Illegalism
 50 Ownership
-50 Production
+30 Production
 100 Civil
 50 Diplomatic
 50 Societal
@@ -465,6 +487,50 @@ Illegalism
 50 Technology
 50 Nature
 50 Religion
+
+Anarcho-Capitalism
+0 Ownership
+100 Production
+100 Civil
+50 Diplomatic
+50 Societal
+50 Legality
+50 Technology
+50 Nature
+50 Religion
+
+Hoppeanism
+0 Ownership
+100 Production
+100 Civil
+80 Diplomatic
+40 Societal
+50 Legality
+50 Technology
+50 Nature
+80 Religion
+
+Strasserism (Otto)
+0 Ownership
+25 Production
+30 Civil
+60 Diplomatic
+30 Societal
+80 Legality
+50 Technology
+30 Nature
+0 Religion
+
+Strasserism (Gregor)
+0 Ownership
+25 Production
+30 Civil
+80 Diplomatic
+25 Societal
+80 Legality
+50 Technology
+30 Nature
+0 Religion
 
 Questions:
 
