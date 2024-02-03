@@ -570,7 +570,7 @@ Production is more important than preserving nature.
 
 We should invest in technology to preserve nature.
 -10 Nature
--10 Technology
++10 Technology
 
 The state is a monopoly on violence and thats a bad thing.
 -10 Civil
@@ -592,10 +592,10 @@ Politics is war and so killing our political enemies to achieve our goals is jus
 -10 Legality
 
 We should be cautious of new technologies.
--7 Technology
++7 Technology
 
 Even if we change the nature of robots, they will likely turn sentient and so we should not go too far.
--5 Technology
++5 Technology
 
 Military intervention in other countries is sometimes necessary to protect our national interests
 +5 Diplomatic
