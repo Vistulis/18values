@@ -301,6 +301,17 @@ Market Socialism
 50 Nature
 50 Religion
 
+Mutualism
+20 Ownership
+75 Production
+70 Civil
+50 Diplomatic
+50 Societal
+50 Legality
+50 Technology
+50 Nature
+50 Religion
+
 Left-Wing Market Anarchism
 20 Ownership
 75 Production
