@@ -656,6 +656,9 @@ Leaders should be strong otherwise the weak citizenry will fall.
 International aid is a waste of our money, why not just use it to help our own?
 -10 Diplomatic
 
+Everyone should be able to practice their own religion as long as they aren't harming anyone.
+-5 Religion
+
 I do not support regional unions like the EU for they will destroy our nation.
 -10 Diplomatic
 
@@ -666,6 +669,12 @@ Freeing the market means freeing the people.
 +10 Production
 +2 Civil
 
+We should use technology to control our evolution, even if we become completely different.
++10 Technology
+
+If my country strays from religion it is no longer my country.
++5 Religion
+
 We should not ally with other countries if they do not follow our religion - it would be like worshipping false gods.
 -5 Diplomatic
 +10 Religion
@@ -673,11 +682,17 @@ We should not ally with other countries if they do not follow our religion - it 
 Politics is war and so killing our political enemies to achieve our goals is justified.
 -10 Legality
 
+Illegal immigrants are bad because they're illegal, not because they're foreign.
++10 Societal
+
 We should be cautious of new technologies.
 +7 Technology
 
 Even if we change the nature of robots, they will likely turn sentient and so we should not go too far.
 +5 Technology
+
+International cooperation is the best way forward.
+-10 Diplomatic
 
 Military intervention in other countries is sometimes necessary to protect our national interests
 +5 Diplomatic
@@ -690,6 +705,9 @@ Access to healthcare is a right not a privilege.
 
 The right to private property should be extended to include human beings.
 +5 Ownership
+
+God is blessing our nation and all its allies and so all people who do not worship god are traitors to the nation.
++10 Religion
 
 The destruction of nature is perfectly fine to me.
 -10 Nature
@@ -705,4 +723,7 @@ Certain (or all) drugs should be legalised.
 
 The market should be regulated to protect consumers.
 -5 Production
+
+We should make a return to state religions, secularism is a virus.
++10 Religion
 `
