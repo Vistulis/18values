@@ -7,8 +7,8 @@ data=`
 18values
 // version
 1.0.0
-// repository (optional)
-bob
+// repository (now unused)
+Unused
 
 Description:
 
@@ -478,7 +478,7 @@ Oppression by corporations is more of a concern than oppression by governments.
 -5 Civil
 
 Nothing shall ever go well in our country unless all land is held in common.
-+10 Ownership
+-10 Ownership
 
 Investment in technology being met with skepticism is foolish as technology can lead us to a less problematic future.
 +10 Technology
@@ -542,13 +542,13 @@ We should actively engage in combat against the current system.
 -5 Legality
 
 The right to property should never be violated.
--5 Ownership
++5 Ownership
 
 If someone wants to try and take my private property, they better be here with either money or a suicide note.
--10 Ownership
++10 Ownership
 
 The lack of property rights will no doubt allow crimes against the property of mans body to happen en masse.
--10 Ownership
++10 Ownership
 
 Under no pretext shall the workers be disarmed.
 -10 Legality
