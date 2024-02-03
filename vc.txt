@@ -591,7 +591,7 @@ Enemies of the state should be dealt with as if they were enemy combatants in wa
 -5 Civil
 
 Everyone should have to accept the national faith for faith is a way of swearing loyalty to the nation.
--10 Religion
++10 Religion
 
 The church should not influence the business of the state.
 -10 Religion
@@ -637,8 +637,8 @@ Democracy is a perfectly suitable way of achieving our goals.
 Production is so important that it should not be left to the market.
 +10 Production
 
-The national faith will unite the people, anyone who doesnt follow it should be socially isolated and/or stunted.
--10 Religion
+The national faith will unite the people, anyone who doesnt follow it should be shunned and isolated.
++10 Religion
 
 Production is more important than preserving nature.
 -10 Nature
@@ -673,7 +673,7 @@ We should use technology to control our evolution, even if we become completely 
 +10 Technology
 
 If my country strays from religion it is no longer my country.
-+5 Religion
++12 Religion
 
 We should not ally with other countries if they do not follow our religion - it would be like worshipping false gods.
 -5 Diplomatic
