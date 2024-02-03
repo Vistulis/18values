@@ -345,6 +345,83 @@ Clerical Fascism
 30 Nature
 80 Religion
 
+Libertarianism
+80 Ownership
+70 Production
+80 Civil
+70 Diplomatic
+70 Societal
+80 Legality
+60 Technology
+40 Nature
+40 Religion
+
+Liberaltarianism
+80 Ownership
+70 Production
+60 Civil
+70 Diplomatic
+70 Societal
+80 Legality
+60 Technology
+40 Nature
+40 Religion
+
+Neoliberalism
+70 Ownership
+80 Production
+50 Civil
+60 Diplomatic
+50 Societal
+70 Legality
+70 Technology
+40 Nature
+30 Religion
+
+Conservatism
+60 Ownership
+40 Production
+40 Civil
+40 Diplomatic
+40 Societal
+50 Legality
+40 Technology
+50 Nature
+60 Religion
+
+Liberalism
+60 Ownership
+70 Production
+70 Civil
+70 Diplomatic
+70 Societal
+70 Legality
+70 Technology
+50 Nature
+40 Religion
+
+Authoritarian Capitalism
+80 Ownership
+80 Production
+40 Civil
+50 Diplomatic
+50 Societal
+70 Legality
+60 Technology
+40 Nature
+50 Religion
+
+National Capitalism
+80 Ownership
+80 Production
+40 Civil
+30 Diplomatic
+40 Societal
+70 Legality
+60 Technology
+40 Nature
+50 Religion
+
 Questions:
 
 // [question]
