@@ -439,10 +439,32 @@ Anarcho-Primitivism
 80 Civil
 50 Diplomatic
 40 Societal
-30 Legality
+80 Legality
 30 Technology
 80 Nature
 20 Religion
+
+Agorism
+30 Ownership
+70 Production
+80 Civil
+60 Diplomatic
+70 Societal
+65 Legality
+70 Technology
+50 Nature
+30 Religion
+
+Illegalism
+50 Ownership
+50 Production
+100 Civil
+50 Diplomatic
+50 Societal
+100 Legality
+50 Technology
+50 Nature
+50 Religion
 
 Questions:
 
