@@ -562,7 +562,7 @@ Democracy is a perfectly suitable way of achieving our goals, we dont have to mu
 Production is so important that it should not be left to the market.
 +10 Production
 
-The national faith will unite the people, anyone who doesnt have it is therefore not a person and should be exterminated.
+The national faith will unite the people, anyone who doesnt follow it is therefore not a person and should be exterminated.
 -10 Religion
 
 Production is more important than preserving nature.
