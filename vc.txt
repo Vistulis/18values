@@ -486,9 +486,6 @@ Investment in technology being met with skepticism is foolish as technology can 
 The state should be given more power - it is the only way forward.
 -10 Civil
 
-The world of 1984 never seemed bad to me.
--5 Civil
-
 The market should be the driving force behind production.
 +10 Production
 
@@ -499,7 +496,7 @@ All nations are inherently opposed to each other and so we should see others as 
 -10 Diplomatic
 
 I believe that welfare should be prioritised for native citizens rather than immigrants.
-+10 Societal
+-10 Societal
 
 Censorship is an unneccessary evil.
 +5 Civil
@@ -507,7 +504,7 @@ Censorship is an unneccessary evil.
 Whistleblowers like Julian Assange are true patriots who want to protect their people from deception.
 +5 Civil
 
-Democracy is an unrealistic way of getting elected for it is plagued by systems where one of two main candidates are always guaranteed to win.
+Liberal democracy is an unrealistic way of getting elected.
 -5 Legality
 
 Enemies of the state should be dealt with as if they were enemy combatants in war.
@@ -520,17 +517,18 @@ Everyone should have to accept the national faith for faith is a way of swearing
 -10 Religion
 
 The church should not influence the business of the state.
-+10 Religion
+-10 Religion
 
 Fully automating work would be beneficial to everyone.
 +10 Technology
 -5 Production
 
-Skepticism towards old morality is proof of a functioning society.
--5 Societal
+Skepticism towards old ideas such as religion or xenophobia is proof of a functioning society.
++5 Societal
+-10 Religion
 
 Some ethnic groups are simply better than others.
-+5 Societal
+-5 Societal
 
 Sabotaging the country is a great way of achieving my goals and should not be condemned.
 -5 Legality
@@ -541,7 +539,7 @@ Terrorism is good if it achieves our goals.
 We should actively engage in combat against the current system.
 -5 Legality
 
-The right to property should never be violated.
+The right to private property should never be violated.
 +5 Ownership
 
 If someone wants to try and take my private property, they better be here with either money or a suicide note.
@@ -566,17 +564,17 @@ The national faith will unite the people, anyone who doesnt follow it is therefo
 -10 Religion
 
 Production is more important than preserving nature.
-+10 Nature
-
-We should invest in technology to preserve nature.
 -10 Nature
+
+We should invest in technology that can genetically modify plants to keep nature thriving.
++10 Nature
 +10 Technology
 
 The state is a monopoly on violence and thats a bad thing.
--10 Civil
++10 Civil
 
 Leaders should be strong otherwise the weak citizenry will fall.
-+10 Civil
+-10 Civil
 
 International aid is a waste of our money, why not just use it to help our own?
 -10 Diplomatic
@@ -584,9 +582,9 @@ International aid is a waste of our money, why not just use it to help our own?
 I do not support regional unions like the EU for they will destroy our nation.
 -10 Diplomatic
 
-We should not ally with countries with a subhuman population.
+We should not ally with other countries if they do not follow our religion - it would be like worshipping false gods.
 -5 Diplomatic
-+10 Societal
++10 Religion
 
 Politics is war and so killing our political enemies to achieve our goals is justified.
 -10 Legality
@@ -607,5 +605,5 @@ Access to education is a right not a privilege.
 -7 Ownership
 
 Certain (or all) drugs should be legalised.
--5 Civil
++5 Civil
 `                                                                                                                                                                                                                                                                                                                                                                                                                                 
