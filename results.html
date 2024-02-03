@@ -115,6 +115,7 @@ document.getElementById("ideologyLabel").addEventListener("click", () => {
     if (newIdeologyName !== null && newIdeologyName.trim() !== "") {
         ideology.n = newIdeologyName.trim();
         updateIdeologyLabel(newIdeologyName);
+	renderCanvas();
     }
 });
 
@@ -140,8 +141,8 @@ function renderCanvas() {
 	ctx.textAlign = "left"
 	ctx.fillText(title, 20, 90 + globalY)
 
-	ctx.font = "50px Montserrat"
-	ctx.fillText(ideology.n, 20, 140 + globalY)
+	ctx.font = "50px Montserrat";
+        ctx.fillText(ideology.n, 20, 140 + globalY);
 
 	ctx.textAlign = "right"
 	ctx.font = "300 " + 12000 / ctx.measureText(repo).width + "px Montserrat"
