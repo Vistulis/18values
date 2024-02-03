@@ -318,7 +318,7 @@ Eco-Fascism
 20 Civil
 90 Diplomatic
 40 Societal
-65 Legality
+35 Legality
 40 Technology
 85 Nature
 75 Religion
