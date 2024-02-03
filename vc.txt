@@ -323,6 +323,28 @@ Eco-Fascism
 85 Nature
 75 Religion
 
+Fascism
+30 Ownership
+40 Production
+30 Civil
+20 Diplomatic
+30 Societal
+20 Legality
+40 Technology
+30 Nature
+50 Religion
+
+Clerical Fascism
+30 Ownership
+40 Production
+30 Civil
+20 Diplomatic
+30 Societal
+20 Legality
+40 Technology
+30 Nature
+80 Religion
+
 Questions:
 
 // [question]
