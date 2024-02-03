@@ -137,10 +137,15 @@ function renderCanvas() {
 
 	ctx.fillStyle = fgColor
 
-	ctx.font = "700 " + 4000 / ctx.measureText(title).width + "px Montserrat"
-	ctx.textAlign = "left"
-	ctx.fillText(title, 20, 90 + globalY)
+	//ctx.font = "700 " + 4000 / ctx.measureText(title).width + "px Montserrat"
+	//ctx.textAlign = "left"
+	//ctx.fillText(title, 20, 90 + globalY)
 
+	ctx.font = "700 50px Montserrat";
+    	ctx.textAlign = "left";
+    	ctx.fillText(title, 20, 90 + globalY);
+
+	
 	ctx.font = "50px Montserrat";
         ctx.fillText(ideology.n, 20, 140 + globalY);
 
