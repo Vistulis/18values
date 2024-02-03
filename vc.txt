@@ -643,6 +643,9 @@ The national faith will unite the people, anyone who doesnt follow it should be 
 Production is more important than preserving nature.
 -10 Nature
 
+I will first and foremost be a servant of my nation.
++10 Diplomacy
+
 We should invest in technology that can genetically modify plants to keep nature thriving.
 +10 Nature
 +10 Technology
