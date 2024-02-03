@@ -351,7 +351,7 @@ Libertarianism
 80 Civil
 70 Diplomatic
 70 Societal
-80 Legality
+60 Legality
 60 Technology
 40 Nature
 40 Religion
@@ -362,7 +362,7 @@ Liberaltarianism
 60 Civil
 70 Diplomatic
 70 Societal
-80 Legality
+50 Legality
 60 Technology
 40 Nature
 40 Religion
@@ -373,7 +373,7 @@ Neoliberalism
 50 Civil
 60 Diplomatic
 50 Societal
-70 Legality
+50 Legality
 70 Technology
 40 Nature
 30 Religion
@@ -395,7 +395,7 @@ Liberalism
 70 Civil
 70 Diplomatic
 70 Societal
-70 Legality
+50 Legality
 70 Technology
 50 Nature
 40 Religion
@@ -406,7 +406,7 @@ Authoritarian Capitalism
 40 Civil
 50 Diplomatic
 50 Societal
-70 Legality
+50 Legality
 60 Technology
 40 Nature
 50 Religion
@@ -417,10 +417,32 @@ National Capitalism
 40 Civil
 30 Diplomatic
 40 Societal
-70 Legality
+50 Legality
 60 Technology
 40 Nature
 50 Religion
+
+Democratic Socialism
+50 Ownership
+60 Production
+70 Civil
+60 Diplomatic
+70 Societal
+50 Legality
+60 Technology
+60 Nature
+40 Religion
+
+Anarcho-Primitivism
+20 Ownership
+30 Production
+80 Civil
+50 Diplomatic
+40 Societal
+30 Legality
+30 Technology
+80 Nature
+20 Religion
 
 Questions:
 
