@@ -40,7 +40,7 @@ document.body.innerHTML = `<h1>${title}</h1>
 <hr />
 <h1>Results</h1>
 ${resultsAxisHtml}
-<h2>Closest Match: ${ideology.n}</h2>
+<h2 id="ideologyLabel">Closest Match: ${ideology.n}</h2>
 <hr />
 <canvas id="banner" width="800" height="${170 + 120 * axes.length + 8}"></canvas>
 <button class="button" id="downloadButton">Download</button>
@@ -109,6 +109,19 @@ function matchings() {
 
 	return matchings
 }
+
+document.getElementById("ideologyLabel").addEventListener("click", () => {
+    const newIdeologyName = prompt("Enter a custom ideology name", ideology.n);
+    if (newIdeologyName !== null && newIdeologyName.trim() !== "") {
+        ideology.n = newIdeologyName.trim();
+        updateIdeologyLabel(newIdeologyName);
+    }
+});
+
+function updateIdeologyLabel(newName) {
+    document.getElementById("ideologyLabel").innerText = `Closest Match: ${newName}`;
+}
+
 
 function renderCanvas() {
 	const globalY = 8
@@ -207,6 +220,7 @@ function renderCanvas() {
 		ctx.textAlign = "center"
 		ctx.fillText(`${axis.n} Axis: ${matchingsv[index]}`, 400, biTHeight)
 	})
+
 }
     </script>
   </body>
