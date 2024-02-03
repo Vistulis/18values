@@ -648,6 +648,13 @@ International aid is a waste of our money, why not just use it to help our own?
 I do not support regional unions like the EU for they will destroy our nation.
 -10 Diplomatic
 
+Counter-economics is a great way of defeating the statist scum.
++5 Legality
+
+Freeing the market means freeing the people.
++10 Production
++2 Civil
+
 We should not ally with other countries if they do not follow our religion - it would be like worshipping false gods.
 -5 Diplomatic
 +10 Religion
@@ -664,12 +671,26 @@ Even if we change the nature of robots, they will likely turn sentient and so we
 Military intervention in other countries is sometimes necessary to protect our national interests
 +5 Diplomatic
 
+Deregulating the market will allow for greater levels of innovation.
++7 Production
+
 Access to healthcare is a right not a privilege.
 -7 Ownership
+
+The right to private property should be extended to include human beings.
++5 Ownership
+
+The destruction of nature is perfectly fine to me.
+-10 Nature
+
+We should empower the workers in firms, establishing new business models like cooperatives.
+-5 Ownership
 
 Access to education is a right not a privilege.
 -7 Ownership
 
 Certain (or all) drugs should be legalised.
 +5 Civil
-`                                                                                                                                                                                                                                                                                                                                                                                                                                 
+
+The market should be regulated to protect consumers.
+-5 Production
