@@ -582,7 +582,7 @@ Whistleblowers like Julian Assange are true patriots who want to protect their p
 +5 Civil
 
 Liberal democracy is an unrealistic way of getting in power.
--5 Legality
++5 Legality
 
 Enemies of the state should be dealt with as if they were enemy combatants in war.
 -5 Civil
@@ -608,13 +608,13 @@ Some ethnic groups are simply better than others.
 -5 Societal
 
 Sabotaging the country is a great way of achieving my goals and should not be condemned.
--5 Legality
++5 Legality
 
 Terrorism is good if it achieves our goals. 
 -10 Legality
 
 We should actively engage in combat against the current system.
--5 Legality
++5 Legality
 
 The right to private property should never be violated.
 +5 Ownership
@@ -626,13 +626,13 @@ The lack of property rights will no doubt allow crimes against the property of m
 +10 Ownership
 
 Under no pretext shall the workers be disarmed.
--10 Legality
++10 Legality
 
 The deaths in a revolution outweigh the ends.
-+5 Legality
+-5 Legality
 
 Democracy is a perfectly suitable way of achieving our goals.
-+7 Legality
+-7 Legality
 
 Production is so important that it should not be left to the market.
 +10 Production
@@ -666,7 +666,8 @@ I do not support regional unions like the EU for they will destroy our nation.
 +10 Diplomatic
 
 Counter-economics is a great way of defeating the statist scum.
-+5 Legality
++3 Legality
++7 Production
 
 Freeing the market means freeing the people.
 +10 Production
