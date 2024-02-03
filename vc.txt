@@ -1,0 +1,468 @@
+data=`
+
+// lines starting with "//" are comments (they have no effect)
+// empty lines have no effect as well
+
+// title
+18values
+// version
+1.0.0
+// repository (optional)
+vistulis.github.io/18values
+
+Description:
+
+<h2>What is 18values?</h2>
+<p>18values is a version of 8values created by MaritimeVistula</p>
+<h2><a>What are the values?</a></h2>
+<p>They are:</p>
+
+Axes:
+
+// [name]
+// [left.name]
+// [left.desc]
+// [left.img]
+// [left.colour]
+// [right.name]
+// [right.desc]
+// [right.img]
+// [right.colour]
+// =[tier]
+
+Ownership
+
+Private
+Those with higher Private scores believe that things should be owned privately, by individuals rather than being owned in common/collectively.
+private.svg
+#faa20a
+
+Common
+Those with higher Common scores believe that things (commonly land but it can extend to produce) should be owned in common meaning by the people.
+common.svg
+#eb0909
+
+=Domineering
+=Territorial
+=Defensive
+=Centrist
+=Cooperative
+=Social
+=Communal
+
+Production
+
+Markets
+Those with higher Markets score believe that things should be produced using the market mechanism.
+markets.svg
+#2a4bad
+
+Command
+Those with higher Command score believe that the cycle of production should be managed by authority e.g. the state.
+command.svg
+#6b2c2c
+
+=Laissez-faire
+=Free Market
+=Liberal
+=Regulated
+=Guided
+=Planned
+=Commanded
+
+Civil
+
+Anarchy
+Those with higher Anarchy scores believe in strong civil liberties. They tend to support democracy and oppose state intervention in personal lives. Note that this refers to civil liberties, not economic liberties.
+anarchy.svg
+#ffeb3b
+
+Order
+Those with higher Order scores believe in strong state power. They tend to support state intervention in personal lives, government surveillance, and at high values, censorship or autocracy.
+order.svg
+#3f51b5
+
+=Anarchist
+=Libertarian
+=Liberal
+=Moderate
+=Statist
+=Authoritarian
+=Totalitarian
+
+Diplomatic
+
+Nation
+Those with higher Progress scores believe in social change and rationality. Though not always, they are usually secular or atheist, and support environmental action and scientific or technological research.
+nation.svg
+#873a23
+
+World
+Those with higher World scores support opening up to the world and have a disdain for isolation - they usually align with policies such as free trade.
+world.svg
+#365fe3
+
+=Irredentist
+=Chauvinist
+=Nationalist
+=Neutral
+=Globalist
+=Internationalist
+=Cosmopolitan
+
+Societal
+
+Inclusive
+Those with higher Inclusive scores believe in including all power no matter background e.g. LGBTQ or foreigners.
+inclusive.svg
+#e356bd
+
+Discriminatory
+Those with higher Discriminatory values believe in the supremacy of the people of the nation (known as nativism) and are often extremely opposed to immigration and support ideas such as welfare chauvinism.
+discriminatory.svg
+#542f15
+
+=Revolutionary
+=Very Progressive
+=Progressive
+=Neutral
+=Traditional
+=Very Traditional
+=Reactionary
+
+Legality
+
+Illegalist
+Those with higher Illegalist scores believe in extremist methods in order to gain power such as revolution, insurrection or (obviously) illegalism.
+illegalist.svg
+#323133
+
+Legalist
+Those with higher Legalist scores believe in pacifistic methods in order to gain power such as democratic election and campaigning.
+legalists.svg
+#d4ccdb
+
+=Insurrectionary
+=Extremist
+=Revolutionary
+=Neutral
+=Popular
+=Democratic
+=Compromising
+
+Technology
+
+Scientific
+Those with higher Scientific scores believe in investment in technology and are often believe technology can solve problems e.g. climate change, scarcity, etc.
+scientific.svg
+#43ad31
+
+Regressive
+Those with higher Regressive scores believe in skepticism of future or even modern technologies thinking they may be harmful to a nation and its people.
+regressive.svg
+#ad3131
+
+=Posthumanist
+=Transhumanist
+=Scientific
+=Neutral
+=Skeptical
+=Regressive
+=Primitive
+
+Nature
+
+Ecology
+Those with higher Ecology scores believe in the preservation of nature and many think this should be done by limiting industrial production.
+ecology.svg
+#3e693a
+
+Industrial
+Those with higher Industrial scores believe in the supremacy of industry over nature.
+industrial.svg
+#615666
+
+=Extinctionist
+=Pastoral
+=Rural
+=Neutral
+=Industrial
+=Hyperindustrial
+=Cyberpunk
+
+Religion
+
+Religious
+Those with higher Religious scores believe in the existence of state religion and its beliefs, with them often having high influence within society.
+religious.svg
+#d8db76
+
+Atheist
+Those with higher Atheist scores believe in the removal of religious influence from society with some of its more extreme branches believing in total forced atheism.
+atheist.svg
+#d3d4c9
+
+=Fundamentalist
+=Theocratic
+=Theist
+=Theist
+=Secular
+=Laicism
+=State Atheist
+
+Buttons:
+
+// [name]
+// [modifier]
+// [colour]
+// [focused colour]
+
+Strongly Agree
+1
+#1b5e20
+#154a19
+
+Agree
+0.5
+#4caf50
+#29942e
+
+Partially Agree
+0.25
+#7ad57a
+#4db74d
+
+Neutral/Unsure
+0
+#949494
+#656565
+
+Partially Disagree
+-0.25
+#ff8080
+#ff5959
+
+Disagree
+-0.5
+#f44336
+#d6271a
+
+Strongly Disagree
+-1
+#b71c1c
+#a00e0e
+
+Ideologies:
+
+// [name]
+// [value] [axis]
+
+Centrism
+50 Ownership
+50 Production
+50 Civil
+50 Diplomatic
+50 Societal
+50 Legality
+50 Technology
+50 Nature
+50 Religion
+
+Marxism-Leninism
+0 Ownership
+25 Production
+30 Civil
+50 Diplomatic
+50 Societal
+80 Legality
+75 Technology
+30 Nature
+0 Religion
+
+Anarcho-Communism
+0 Ownership
+25 Production
+100 Civil
+50 Diplomatic
+50 Societal
+80 Legality
+75 Technology
+30 Nature
+50 Religion
+
+Market Socialism
+20 Ownership
+75 Production
+50 Civil
+50 Diplomatic
+50 Societal
+50 Legality
+50 Technology
+50 Nature
+50 Religion
+
+Left-Wing Market Anarchism
+20 Ownership
+75 Production
+100 Civil
+50 Diplomatic
+50 Societal
+50 Legality
+50 Technology
+50 Nature
+50 Religion
+
+Eco-Fascism
+30 Ownership
+30 Production
+20 Civil
+90 Diplomatic
+40 Societal
+65 Legality
+40 Technology
+85 Nature
+75 Religion
+
+Questions:
+
+// [question]
+// +/-[points] [axis]
+// 
+// the results then are the percentage of points gained out of the possible amount of points
+
+Oppression by corporations is more of a concern than oppression by governments.
+-5 Production
+-5 Civil
+
+Nothing shall ever go well in our country unless all land is held in common.
++10 Ownership
+
+Investment in technology being met with skepticism is foolish as technology can lead us to a less problematic future.
++10 Technology
+
+The state should be given more power - it is the only way forward.
+-10 Civil
+
+The world of 1984 never seemed bad to me.
+-5 Civil
+
+The market should be the driving force behind production.
++10 Production
+
+Diplomacy should serve our interests and our interests only.
+-5 Diplomatic
+
+All nations are inherently opposed to each other and so we should see others as enemies.
+-10 Diplomatic
+
+I believe that welfare should be prioritised for native citizens rather than immigrants.
++10 Societal
+
+Censorship is an unneccessary evil.
++5 Civil
+
+Whistleblowers like Julian Assange are true patriots who want to protect their people from deception.
++5 Civil
+
+Democracy is an unrealistic way of getting elected for it is plagued by systems where one of two main candidates are always guaranteed to win.
+-5 Legality
+
+Enemies of the state should be dealt with as if they were enemy combatants in war.
+-5 Civil
+
+"Anarchism being impossible" being a widespread idea is a great thing no matter whether it is true or false.
+-5 Civil
+
+Everyone should have to accept the national faith for faith is a way of swearing loyalty to the nation.
+-10 Religion
+
+The church should not influence the business of the state.
++10 Religion
+
+Fully automating work would be beneficial to everyone.
++10 Technology
+-5 Production
+
+Skepticism towards old morality is proof of a functioning society.
+-5 Societal
+
+Some ethnic groups are simply better than others.
++5 Societal
+
+Sabotaging the country is a great way of achieving my goals and should not be condemned.
+-5 Legality
+
+Terrorism is good if it achieves our goals. 
+-10 Legality
+
+We should actively engage in combat against the current system.
+-5 Legality
+
+The right to property should never be violated.
+-5 Ownership
+
+If someone wants to try and take my private property, they better be here with either money or a suicide note.
+-10 Ownership
+
+The lack of property rights will no doubt allow crimes against the property of mans body to happen en masse.
+-10 Ownership
+
+Under no pretext shall the workers be disarmed.
+-10 Legality
+
+The deaths in a revolution outweigh the ends.
++5 Legality
+
+Democracy is a perfectly suitable way of achieving our goals, we dont have to murder.
++10 Legality
+
+Production is so important that it should not be left to the market.
++10 Production
+
+The national faith will unite the people, anyone who doesnt have it is therefore not a person and should be exterminated.
+-10 Religion
+
+Production is more important than preserving nature.
++10 Nature
+
+We should invest in technology to preserve nature.
+-10 Nature
+-10 Technology
+
+The state is a monopoly on violence and thats a bad thing.
+-10 Civil
+
+Leaders should be strong otherwise the weak citizenry will fall.
++10 Civil
+
+International aid is a waste of our money, why not just use it to help our own?
+-10 Diplomatic
+
+I do not support regional unions like the EU for they will destroy our nation.
+-10 Diplomatic
+
+We should not ally with countries with a subhuman population.
+-5 Diplomatic
++10 Societal
+
+Politics is war and so killing our political enemies to achieve our goals is justified.
+-10 Legality
+
+We should be cautious of new technologies.
+-7 Technology
+
+Even if we change the nature of robots, they will likely turn sentient and so we should not go too far.
+-5 Technology
+
+Military intervention in other countries is sometimes necessary to protect our national interests
++5 Diplomatic
+
+Access to healthcare is a right not a privilege.
+-7 Ownership
+
+Access to education is a right not a privilege.
+-7 Ownership
+
+Certain (or all) drugs should be legalised.
+-5 Civil
+`                                                                                                                                                                                                                                                                                                                                                                                                                                 
