@@ -694,3 +694,4 @@ Certain (or all) drugs should be legalised.
 
 The market should be regulated to protect consumers.
 -5 Production
+`
