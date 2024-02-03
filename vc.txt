@@ -631,8 +631,8 @@ Under no pretext shall the workers be disarmed.
 The deaths in a revolution outweigh the ends.
 +5 Legality
 
-Democracy is a perfectly suitable way of achieving our goals, we dont have to murder.
-+10 Legality
+Democracy is a perfectly suitable way of achieving our goals.
++7 Legality
 
 Production is so important that it should not be left to the market.
 +10 Production
