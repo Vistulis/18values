@@ -567,10 +567,10 @@ The market should be the driving force behind production.
 +10 Production
 
 Diplomacy should serve our interests and our interests only.
--5 Diplomatic
++5 Diplomatic
 
 All nations are inherently opposed to each other and so we should see others as enemies.
--10 Diplomatic
++10 Diplomatic
 
 I believe that welfare should be prioritised for native citizens rather than immigrants.
 -10 Societal
@@ -657,13 +657,13 @@ Leaders should be strong otherwise the weak citizenry will fall.
 -10 Civil
 
 International aid is a waste of our money, why not just use it to help our own?
--10 Diplomatic
++10 Diplomatic
 
 Everyone should be able to practice their own religion as long as they aren't harming anyone.
 -5 Religion
 
 I do not support regional unions like the EU for they will destroy our nation.
--10 Diplomatic
++10 Diplomatic
 
 Counter-economics is a great way of defeating the statist scum.
 +5 Legality
@@ -679,7 +679,7 @@ If my country strays from religion it is no longer my country.
 +12 Religion
 
 We should not ally with other countries if they do not follow our religion - it would be like worshipping false gods.
--5 Diplomatic
++5 Diplomatic
 +10 Religion
 
 Politics is war and so killing our political enemies to achieve our goals is justified.
