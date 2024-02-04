@@ -675,11 +675,18 @@ We should invest in technology that can genetically modify plants to keep nature
 The state is a monopoly on violence and thats a bad thing.
 +10 Civil
 
+The government should fund the emergence of new technologies.
++5 Technology
+
 Leaders should be strong otherwise the weak citizenry will fall.
 -10 Civil
 
 International aid is a waste of our money, why not just use it to help our own?
 +10 Diplomatic
+
+Making more technology open-source will allow for greater technological innovation even at the expense of big business.
++10 Technology
+-5 Ownership
 
 Everyone should be able to practice their own religion as long as they aren't harming anyone.
 -5 Religion
@@ -695,6 +702,9 @@ Freeing the market means freeing the people.
 +10 Production
 +2 Civil
 
+We should make use of emerging technologies such as gene editing.
++7 Technology
+
 We should use technology to control our evolution, even if we become completely different.
 +10 Technology
 
@@ -704,6 +714,9 @@ If my country strays from religion it is no longer my country.
 We should not ally with other countries if they do not follow our religion - it would be like worshipping false gods.
 +5 Diplomatic
 +10 Religion
+
+Artificial intelligence is a threat to humanity and should be regulated or abandoned.
+-7 Technology
 
 Politics is war and so killing our political enemies to achieve our goals is justified.
 -10 Legality
@@ -716,6 +729,10 @@ We should be cautious of new technologies.
 
 Even if we change the nature of robots, they will likely turn sentient and so we should not go too far.
 +5 Technology
+
+There should be greater global cooperation to address environmental issues like deforestation.
++5 Nature
+-5 Diplomacy
 
 International cooperation is the best way forward.
 -10 Diplomatic
@@ -732,6 +749,9 @@ Access to healthcare is a right not a privilege.
 The right to private property should be extended to include human beings.
 +5 Ownership
 
+We should invest in sustainable and eco-friendly practices, even if it hinders industry.
++5 Nature
+
 God is blessing our nation and all its allies and so all people who do not worship god are traitors to the nation.
 +10 Religion
 
@@ -746,6 +766,9 @@ Access to education is a right not a privilege.
 
 Certain (or all) drugs should be legalised.
 +5 Civil
+
+There should be strict limits on industrial production to protect the environment.
++10 Nature
 
 The market should be regulated to protect consumers.
 -5 Production
