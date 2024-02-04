@@ -124,6 +124,13 @@ function updateIdeologyLabel(newName) {
     document.getElementById("ideologyLabel").innerText = `Closest Match: ${newName}`;
 }
 
+function updateAxisText(axisName, newValue) {
+    const axisTextElement = document.getElementById(`axisText${axisName}`);
+    if (axisTextElement) {
+        axisTextElement.innerText = `${axisName} Axis: ${newValue.toFixed(1)}`;
+    }
+}
+
 
 function renderCanvas() {
 	const globalY = 8
@@ -233,7 +240,8 @@ function renderCanvas() {
 		ctx.fillStyle = fgColor
 		ctx.font = "300 30px Montserrat"
 		ctx.textAlign = "center"
-		ctx.fillText(`${axis.n} Axis: ${matchingsv[index]}`, 400, biTHeight)
+		ctx.fillText(`${axis.n} Axis: ${matchingsv[index]}`, 400, biTHeight, { "id": `axisText${axis.n}` });
+		updateAxisText(axis.n, resultEffects[axis.n]);
 	})
 
 }
