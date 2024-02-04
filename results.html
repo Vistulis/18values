@@ -33,7 +33,8 @@ for (let i = 0; i < axes.length; i++) {
 
     const maxShown = 30
 
-    resultsAxisHtml += `<h2>${`${axis.n} Axis: ${matchingsv[i]}`}<span class="weight-300" id="economic-label"></span></h2><div class="axis"><img src="${axis.li}" height="128pt" /><div style="background-color:${axis.lc};border-right-style:solid;text-align:left;width:${resultEffects[axis.n]}%" class="bar"><div class="text-wrapper">${resultEffects[axis.n] > maxShown ? resultEffects[axis.n].toFixed(1) + "%": ""}</div></div><div style="background-color:${axis.rc};border-left-style:solid;text-align:right;width:${100 - resultEffects[axis.n]}%" class="bar"><div class="text-wrapper">${(100 - resultEffects[axis.n] > maxShown) ? (100 - resultEffects[axis.n]).toFixed(1) + "%" : ""}</div></div><img src="${axis.ri}" height="128pt" /></div>`
+    resultsAxisHtml += `<h2>${`${axis.n} Axis: ${matchingsv[i]}`}<span class="weight-300" id="economic-label"></span></h2><div class="axis"><img id="leftImageAxis${axis.n}" src="${axis.li}" height="128pt" />
+<div style="background-color:${axis.lc};border-right-style:solid;text-align:left;width:${resultEffects[axis.n]}%" class="bar"><div class="text-wrapper">${resultEffects[axis.n] > maxShown ? resultEffects[axis.n].toFixed(1) + "%": ""}</div></div><div style="background-color:${axis.rc};border-left-style:solid;text-align:right;width:${100 - resultEffects[axis.n]}%" class="bar"><div class="text-wrapper">${(100 - resultEffects[axis.n] > maxShown) ? (100 - resultEffects[axis.n]).toFixed(1) + "%" : ""}</div></div><img src="${axis.ri}" height="128pt" /></div>`
 }
 
 document.body.innerHTML = `<h1>${title}</h1>
@@ -173,11 +174,19 @@ function renderCanvas() {
 			(defThickness - defThickness) / 4
 		const biTHeight = 175 + height - (defThickness + defOut * 2 - (defThickness + defOut * 2)) / 2
 
-		var img = new Image(200, 200)
-		img.onload = () => {
-			ctx.drawImage(img, 20, iHeight, 100, 100)
-		}
-		img.src = axis.li
+		var img = new Image(200, 200);
+	        img.onload = () => {
+			ctx.drawImage(img, 20, iHeight, 100, 100);
+	        };
+	        img.src = axis.li;
+
+		document.getElementById(`leftImageAxis${axis.n}`).addEventListener("click", () => {
+        		const newValue = prompt(`Enter a new value for ${axis.n} Axis (0-100):`, resultEffects[axis.n]);
+        		if (newValue !== null && !isNaN(newValue) && newValue >= 0 && newValue <= 100) {
+            			resultEffects[axis.n] = parseFloat(newValue);
+            			renderCanvas(); // Redraw the SVG with the updated axis value
+        		}
+    		});
 
 		var img2 = new Image(200, 200)
 		img2.onload = () => {
