@@ -122,15 +122,15 @@ Those with higher Discriminatory values believe in the supremacy of the people o
 discriminatory.svg
 #542f15
 
-=Revolutionary
-=Very Progressive
-=Progressive
+=Universal
+=Encompassing
+=Inclusive
 =Neutral
-=Traditional
-=Very Traditional
-=Reactionary
+=Exclusive
+=Segregationist
+=Genocidal
 
-Legality
+Praxis
 
 Illegalist
 Those with higher Illegalist scores believe in extremist methods in order to gain power such as revolution, insurrection or (obviously) illegalism.
@@ -263,7 +263,7 @@ Centrism
 50 Civil
 50 Diplomatic
 50 Societal
-50 Legality
+50 Praxis
 50 Technology
 50 Nature
 50 Religion
@@ -274,7 +274,7 @@ Classical Marxism
 40 Civil
 50 Diplomatic
 80 Societal
-90 Legality
+90 Praxis
 75 Technology
 50 Nature
 5 Religion
@@ -285,7 +285,7 @@ National Communism
 40 Civil
 80 Diplomatic
 20 Societal
-90 Legality
+90 Praxis
 75 Technology
 50 Nature
 50 Religion
@@ -296,7 +296,7 @@ Marxism-Leninism
 30 Civil
 50 Diplomatic
 50 Societal
-80 Legality
+80 Praxis
 75 Technology
 30 Nature
 0 Religion
@@ -307,7 +307,7 @@ Anarcho-Communism
 100 Civil
 50 Diplomatic
 50 Societal
-80 Legality
+80 Praxis
 75 Technology
 30 Nature
 50 Religion
@@ -318,7 +318,7 @@ Market Socialism
 50 Civil
 50 Diplomatic
 50 Societal
-50 Legality
+50 Praxis
 50 Technology
 50 Nature
 50 Religion
@@ -329,7 +329,7 @@ Mutualism
 70 Civil
 50 Diplomatic
 50 Societal
-50 Legality
+50 Praxis
 50 Technology
 50 Nature
 50 Religion
@@ -340,7 +340,7 @@ Left-Wing Market Anarchism
 100 Civil
 50 Diplomatic
 50 Societal
-50 Legality
+50 Praxis
 50 Technology
 50 Nature
 50 Religion
@@ -351,7 +351,7 @@ Eco-Fascism
 20 Civil
 90 Diplomatic
 40 Societal
-35 Legality
+35 Praxis
 40 Technology
 85 Nature
 75 Religion
@@ -362,7 +362,7 @@ Fascism
 30 Civil
 20 Diplomatic
 30 Societal
-20 Legality
+20 Praxis
 40 Technology
 30 Nature
 50 Religion
@@ -373,7 +373,7 @@ Clerical Fascism
 30 Civil
 20 Diplomatic
 30 Societal
-20 Legality
+20 Praxis
 40 Technology
 30 Nature
 80 Religion
@@ -384,7 +384,7 @@ Libertarianism
 80 Civil
 70 Diplomatic
 70 Societal
-60 Legality
+60 Praxis
 60 Technology
 40 Nature
 40 Religion
@@ -395,7 +395,7 @@ Liberaltarianism
 60 Civil
 70 Diplomatic
 70 Societal
-50 Legality
+50 Praxis
 60 Technology
 40 Nature
 40 Religion
@@ -406,7 +406,7 @@ Bleeding-Heart Libertarianism
 60 Civil
 70 Diplomatic
 80 Societal
-50 Legality
+50 Praxis
 65 Technology
 60 Nature
 30 Religion
@@ -417,7 +417,7 @@ Neoliberalism
 50 Civil
 40 Diplomatic
 50 Societal
-50 Legality
+50 Praxis
 70 Technology
 40 Nature
 30 Religion
@@ -428,7 +428,7 @@ Neoconservatism
 50 Civil
 30 Diplomatic
 35 Societal
-50 Legality
+50 Praxis
 70 Technology
 40 Nature
 50 Religion
@@ -439,7 +439,7 @@ Anarcho-Primitivism
 100 Civil
 50 Diplomatic
 50 Societal
-100 Legality
+100 Praxis
 0 Technology
 100 Nature
 50 Religion
@@ -450,7 +450,7 @@ Conservatism
 40 Civil
 40 Diplomatic
 40 Societal
-50 Legality
+50 Praxis
 40 Technology
 50 Nature
 60 Religion
@@ -461,7 +461,7 @@ Liberalism
 70 Civil
 70 Diplomatic
 70 Societal
-50 Legality
+50 Praxis
 70 Technology
 50 Nature
 40 Religion
@@ -472,7 +472,7 @@ Authoritarian Capitalism
 30 Civil
 50 Diplomatic
 50 Societal
-50 Legality
+50 Praxis
 60 Technology
 40 Nature
 50 Religion
@@ -483,7 +483,7 @@ Capitalist Transhumanism
 50 Civil
 50 Diplomatic
 50 Societal
-50 Legality
+50 Praxis
 90 Technology
 40 Nature
 50 Religion
@@ -494,7 +494,7 @@ National Capitalism
 40 Civil
 30 Diplomatic
 40 Societal
-50 Legality
+50 Praxis
 60 Technology
 40 Nature
 50 Religion
@@ -505,7 +505,7 @@ Democratic Socialism
 70 Civil
 60 Diplomatic
 70 Societal
-50 Legality
+50 Praxis
 60 Technology
 60 Nature
 40 Religion
@@ -516,7 +516,7 @@ Anarcho-Primitivism
 80 Civil
 50 Diplomatic
 40 Societal
-80 Legality
+80 Praxis
 30 Technology
 80 Nature
 20 Religion
@@ -527,7 +527,7 @@ Agorism
 80 Civil
 60 Diplomatic
 70 Societal
-65 Legality
+65 Praxis
 70 Technology
 50 Nature
 30 Religion
@@ -538,7 +538,7 @@ Illegalism
 100 Civil
 50 Diplomatic
 50 Societal
-100 Legality
+100 Praxis
 50 Technology
 50 Nature
 50 Religion
@@ -549,7 +549,7 @@ Anarcho-Capitalism
 100 Civil
 50 Diplomatic
 50 Societal
-50 Legality
+50 Praxis
 50 Technology
 50 Nature
 50 Religion
@@ -560,7 +560,7 @@ Hoppeanism
 100 Civil
 80 Diplomatic
 40 Societal
-50 Legality
+50 Praxis
 50 Technology
 50 Nature
 80 Religion
@@ -571,7 +571,7 @@ Strasserism (Otto)
 30 Civil
 60 Diplomatic
 30 Societal
-80 Legality
+80 Praxis
 50 Technology
 30 Nature
 0 Religion
@@ -582,7 +582,7 @@ Strasserism (Gregor)
 30 Civil
 80 Diplomatic
 25 Societal
-80 Legality
+80 Praxis
 50 Technology
 30 Nature
 0 Religion
@@ -626,7 +626,7 @@ Whistleblowers like Julian Assange are true patriots who want to protect their p
 +5 Civil
 
 Liberal democracy is an unrealistic way of getting in power.
-+5 Legality
++5 Praxis
 
 Enemies of the state should be dealt with as if they were enemy combatants in war.
 -5 Civil
@@ -652,13 +652,13 @@ Some ethnic groups are simply better than others.
 -5 Societal
 
 Sabotaging the country is a great way of achieving my goals and should not be condemned.
-+5 Legality
++5 Praxis
 
 Terrorism is good if it achieves our goals. 
--10 Legality
+-10 Praxis
 
 We should actively engage in combat against the current system.
-+5 Legality
++5 Praxis
 
 The right to private property should never be violated.
 +5 Ownership
@@ -670,13 +670,13 @@ The lack of property rights will no doubt allow crimes against the property of m
 +10 Ownership
 
 Under no pretext shall the workers be disarmed.
-+10 Legality
++10 Praxis
 
 The deaths in a revolution outweigh the ends.
--5 Legality
+-5 Praxis
 
 Democracy is a perfectly suitable way of achieving our goals.
--7 Legality
+-7 Praxis
 
 Production is so important that it should not be left to the market.
 +10 Production
@@ -717,7 +717,7 @@ I do not support regional unions like the EU for they will destroy our nation.
 +10 Diplomatic
 
 Counter-economics is a great way of defeating the statist scum.
-+3 Legality
++3 Praxis
 +7 Production
 
 Freeing the market means freeing the people.
@@ -741,7 +741,7 @@ Artificial intelligence is a threat to humanity and should be regulated or aband
 -7 Technology
 
 Politics is war and so killing our political enemies to achieve our goals is justified.
--10 Legality
+-10 Praxis
 
 Illegal immigrants are bad because they're illegal, not because they're foreign.
 +10 Societal
