@@ -400,6 +400,17 @@ Liberaltarianism
 40 Nature
 40 Religion
 
+Bleeding-Heart Libertarianism
+80 Ownership
+70 Production
+60 Civil
+70 Diplomatic
+80 Societal
+50 Legality
+65 Technology
+60 Nature
+30 Religion
+
 Neoliberalism
 70 Ownership
 80 Production
@@ -458,11 +469,22 @@ Liberalism
 Authoritarian Capitalism
 80 Ownership
 80 Production
-40 Civil
+30 Civil
 50 Diplomatic
 50 Societal
 50 Legality
 60 Technology
+40 Nature
+50 Religion
+
+Capitalist Transhumanism
+80 Ownership
+80 Production
+50 Civil
+50 Diplomatic
+50 Societal
+50 Legality
+90 Technology
 40 Nature
 50 Religion
 
