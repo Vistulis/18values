@@ -110,7 +110,7 @@ world.svg
 =Internationalist
 =Cosmopolitan
 
-Societal
+Inclusivity
 
 Inclusive
 Those with higher Inclusive scores believe in including all power no matter background e.g. LGBTQ or foreigners.
@@ -128,7 +128,7 @@ discriminatory.svg
 =Neutral
 =Exclusive
 =Segregationist
-=Genocidal
+=Supremacist
 
 Praxis
 
@@ -262,7 +262,7 @@ Centrism
 50 Production
 50 Civil
 50 Diplomatic
-50 Societal
+50 Inclusivity
 50 Praxis
 50 Technology
 50 Nature
@@ -273,7 +273,7 @@ Classical Marxism
 20 Production
 40 Civil
 50 Diplomatic
-80 Societal
+80 Inclusivity
 90 Praxis
 75 Technology
 50 Nature
@@ -284,7 +284,7 @@ National Communism
 20 Production
 40 Civil
 80 Diplomatic
-20 Societal
+20 Inclusivity
 90 Praxis
 75 Technology
 50 Nature
@@ -295,7 +295,7 @@ Marxism-Leninism
 25 Production
 30 Civil
 50 Diplomatic
-50 Societal
+50 Inclusivity
 80 Praxis
 75 Technology
 30 Nature
@@ -306,7 +306,7 @@ Anarcho-Communism
 25 Production
 100 Civil
 50 Diplomatic
-50 Societal
+50 Inclusivity
 80 Praxis
 75 Technology
 30 Nature
@@ -317,7 +317,7 @@ Market Socialism
 75 Production
 50 Civil
 50 Diplomatic
-50 Societal
+50 Inclusivity
 50 Praxis
 50 Technology
 50 Nature
@@ -328,7 +328,7 @@ Mutualism
 75 Production
 70 Civil
 50 Diplomatic
-50 Societal
+50 Inclusivity
 50 Praxis
 50 Technology
 50 Nature
@@ -339,7 +339,7 @@ Left-Wing Market Anarchism
 75 Production
 100 Civil
 50 Diplomatic
-50 Societal
+50 Inclusivity
 50 Praxis
 50 Technology
 50 Nature
@@ -350,7 +350,7 @@ Eco-Fascism
 30 Production
 20 Civil
 90 Diplomatic
-40 Societal
+40 Inclusivity
 35 Praxis
 40 Technology
 85 Nature
@@ -361,7 +361,7 @@ Fascism
 40 Production
 30 Civil
 20 Diplomatic
-30 Societal
+30 Inclusivity
 20 Praxis
 40 Technology
 30 Nature
@@ -372,7 +372,7 @@ Clerical Fascism
 40 Production
 30 Civil
 20 Diplomatic
-30 Societal
+30 Inclusivity
 20 Praxis
 40 Technology
 30 Nature
@@ -383,7 +383,7 @@ Libertarianism
 70 Production
 80 Civil
 70 Diplomatic
-70 Societal
+70 Inclusivity
 60 Praxis
 60 Technology
 40 Nature
@@ -394,7 +394,7 @@ Liberaltarianism
 70 Production
 60 Civil
 70 Diplomatic
-70 Societal
+70 Inclusivity
 50 Praxis
 60 Technology
 40 Nature
@@ -405,7 +405,7 @@ Bleeding-Heart Libertarianism
 70 Production
 60 Civil
 70 Diplomatic
-80 Societal
+80 Inclusivity
 50 Praxis
 65 Technology
 60 Nature
@@ -416,7 +416,7 @@ Neoliberalism
 80 Production
 50 Civil
 40 Diplomatic
-50 Societal
+50 Inclusivity
 50 Praxis
 70 Technology
 40 Nature
@@ -427,7 +427,7 @@ Neoconservatism
 80 Production
 50 Civil
 30 Diplomatic
-35 Societal
+35 Inclusivity
 50 Praxis
 70 Technology
 40 Nature
@@ -438,7 +438,7 @@ Anarcho-Primitivism
 0 Production
 100 Civil
 50 Diplomatic
-50 Societal
+50 Inclusivity
 100 Praxis
 0 Technology
 100 Nature
@@ -449,7 +449,7 @@ Conservatism
 40 Production
 40 Civil
 40 Diplomatic
-40 Societal
+40 Inclusivity
 50 Praxis
 40 Technology
 50 Nature
@@ -460,7 +460,7 @@ Liberalism
 70 Production
 70 Civil
 70 Diplomatic
-70 Societal
+70 Inclusivity
 50 Praxis
 70 Technology
 50 Nature
@@ -471,7 +471,7 @@ Authoritarian Capitalism
 80 Production
 30 Civil
 50 Diplomatic
-50 Societal
+50 Inclusivity
 50 Praxis
 60 Technology
 40 Nature
@@ -482,7 +482,7 @@ Capitalist Transhumanism
 80 Production
 50 Civil
 50 Diplomatic
-50 Societal
+50 Inclusivity
 50 Praxis
 90 Technology
 40 Nature
@@ -493,7 +493,7 @@ National Capitalism
 80 Production
 40 Civil
 30 Diplomatic
-40 Societal
+40 Inclusivity
 50 Praxis
 60 Technology
 40 Nature
@@ -504,7 +504,7 @@ Democratic Socialism
 60 Production
 70 Civil
 60 Diplomatic
-70 Societal
+70 Inclusivity
 50 Praxis
 60 Technology
 60 Nature
@@ -515,7 +515,7 @@ Anarcho-Primitivism
 30 Production
 80 Civil
 50 Diplomatic
-40 Societal
+40 Inclusivity
 80 Praxis
 30 Technology
 80 Nature
@@ -526,7 +526,7 @@ Agorism
 70 Production
 80 Civil
 60 Diplomatic
-70 Societal
+70 Inclusivity
 65 Praxis
 70 Technology
 50 Nature
@@ -537,7 +537,7 @@ Illegalism
 30 Production
 100 Civil
 50 Diplomatic
-50 Societal
+50 Inclusivity
 100 Praxis
 50 Technology
 50 Nature
@@ -548,7 +548,7 @@ Anarcho-Capitalism
 100 Production
 100 Civil
 50 Diplomatic
-50 Societal
+50 Inclusivity
 50 Praxis
 50 Technology
 50 Nature
@@ -559,7 +559,7 @@ Hoppeanism
 100 Production
 100 Civil
 80 Diplomatic
-40 Societal
+40 Inclusivity
 50 Praxis
 50 Technology
 50 Nature
@@ -570,7 +570,7 @@ Strasserism (Otto)
 25 Production
 30 Civil
 60 Diplomatic
-30 Societal
+30 Inclusivity
 80 Praxis
 50 Technology
 30 Nature
@@ -581,7 +581,7 @@ Strasserism (Gregor)
 25 Production
 30 Civil
 80 Diplomatic
-25 Societal
+25 Inclusivity
 80 Praxis
 50 Technology
 30 Nature
@@ -617,7 +617,7 @@ All nations are inherently opposed to each other and so we should see others as 
 +10 Diplomatic
 
 I believe that welfare should be prioritised for native citizens rather than immigrants.
--10 Societal
+-10 Inclusivity
 
 Censorship is an unneccessary evil.
 +5 Civil
@@ -645,11 +645,11 @@ Fully automating work would be beneficial to everyone.
 -5 Production
 
 Skepticism towards old ideas such as religion or xenophobia is proof of a functioning society.
-+5 Societal
++5 Inclusivity
 -10 Religion
 
 Some ethnic groups are simply better than others.
--5 Societal
+-5 Inclusivity
 
 Sabotaging the country is a great way of achieving my goals and should not be condemned.
 +5 Praxis
@@ -744,7 +744,7 @@ Politics is war and so killing our political enemies to achieve our goals is jus
 -10 Praxis
 
 Illegal immigrants are bad because they're illegal, not because they're foreign.
-+10 Societal
++10 Inclusivity
 
 We should be cautious of new technologies.
 +7 Technology
