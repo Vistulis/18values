@@ -587,6 +587,39 @@ Strasserism (Gregor)
 30 Nature
 0 Religion
 
+Distributism
+60 Ownership
+60 Production
+40 Civil
+40 Diplomatic
+50 Inclusivity
+50 Praxis
+50 Technology
+60 Nature
+80 Religion
+
+Social Distributism
+80 Ownership
+55 Production
+40 Civil
+40 Diplomatic
+50 Inclusivity
+50 Praxis
+50 Technology
+60 Nature
+80 Religion
+
+National Distributism
+60 Ownership
+50 Production
+30 Civil
+80 Diplomatic
+35 Inclusivity
+50 Praxis
+50 Technology
+60 Nature
+90 Religion
+
 Questions:
 
 // [question]
